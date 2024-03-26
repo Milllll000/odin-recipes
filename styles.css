@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(170, 200, 214);
+}
+
+.menu {
+    font-size: 32px;
+}
+
+#title {
+    font-size: 48px;
+}
+
+#recipes {
+    font-size: 1em;
+}
+
+.recipes-list {
+    font-size: large;
+}
+
+.ingredient-list {
+    font-size: 18px;
+}
+
+li {
+    font-size: 1em;
+}
+
